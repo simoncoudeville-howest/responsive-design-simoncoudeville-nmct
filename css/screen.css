@@ -163,8 +163,7 @@ a:focus {
 .o-row {
     position: relative;
     padding: 24px 24px 0;
-    display: flex;
-    flex-direction: column;
+    display: flow-root;
 }
 
 /* size modifiers */
